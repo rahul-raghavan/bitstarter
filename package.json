@@ -7,7 +7,7 @@
     "start": "node web.js"
   },
   "dependencies": {
-    "express": "^4.0.0"
+    "express": "^4.0.0",
     "morgan": "*"
   },
   "engines": {
