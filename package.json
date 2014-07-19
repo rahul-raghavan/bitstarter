@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^4.0.0"
+    "morgan": "*"
   },
   "engines": {
     "node": "0.10.x"
